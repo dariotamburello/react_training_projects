@@ -1,2 +1,2 @@
-# training_devs
+# training_projects
 Folder for training projects
